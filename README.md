@@ -1,4 +1,5 @@
 # :bar_chart: AdmitLab : Graduate Admission Forecaster :crystal_ball:
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 [Link To Project Deployment](https://admitlab.herokuapp.com/)
 
 ## About The Project
